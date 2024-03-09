@@ -21,7 +21,7 @@ Live life to the fullest.
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
 
 ## 📫 How to reach me: 
-[LinkedIn](https://https://www.linkedin.com/in/ameya-darole//)
+[LinkedIn](https://https://www.linkedin.com/in/ameya-darole/)
   
 
 
