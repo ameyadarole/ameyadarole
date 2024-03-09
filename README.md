@@ -12,9 +12,9 @@ Live life to the fullest.
 - 🎓 PG Diploma in Data Science.
   
 ## 🔭 What am I currently doing:
-- Working as a Data Scientist in Insurance domain.
-- Exploring Classical ML.
-- Understanding Math & Stats concepts.
+- 🔨 Working as a Data Scientist in Insurance domain.
+- 🔨 Exploring Classical ML.
+- 🔨 Understanding Math & Stats concepts.
 
 ## ⚡ Skills:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
