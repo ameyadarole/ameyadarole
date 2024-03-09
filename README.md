@@ -1,13 +1,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="300" alt ="Side Image" align="right">
 
 ## About me
+-- I help a business generate better ROI & increased revenue by using my knowledge from the streams of Data Science, Machine Learning & Statistics.
 
 ## What I am working on?
 -- Working as a Data Scientist in Insurance domain.
-
--- Currently exploring classical ML.
-
+-- Exploring classical ML.
 -- Understanding math & stats concepts.
+
+- 📫 How to reach me: ...
 
 
 - I get a tremendous amount of satisfaction in adding value to people's lives.
