@@ -1,5 +1,6 @@
 ### Hi there, I am Ameya.👋
 
+- I derive a tremendous amount of satisfaction in adding value to others.
 <!--
 **ameyadarole/ameyadarole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
