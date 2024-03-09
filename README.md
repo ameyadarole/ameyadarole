@@ -1,11 +1,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="300" alt ="Side Image" align="right">
 
+
 ## 💬 About me:
 ```yaml
 Make every moment count.
 Live life to the fullest.
 ```
-- 💼 Data Scientist
+- 💼 Data Scientist.
 - ⚡ I help businesses generate a better ROI & increased revenue. 
 - 🎓 B.E in Information Technology.
 - 🎓 PG Diploma in Data Science.
