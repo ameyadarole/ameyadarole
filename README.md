@@ -2,17 +2,15 @@
 
 ## 💬 About me:
 
-- I help a business generate better ROI & increased revenue. 
+- A Data Scientist which helps businesses generate a better ROI & an increased revenue. 
 - I use knowledge from the streams of Data Science, Machine Learning & Statistics.
 - I get a tremendous amount of satisfaction in adding value to people's lives.
   
-## 🔭 What I am working on?
+## 🔭 What I do:
 
 - Working as a Data Scientist in Insurance domain.
-
 - Exploring Classical ML.
-
-- Understanding math & stats concepts.
+- Understanding Math & Stats concepts.
 
 ## ⚡ Skills:
 
