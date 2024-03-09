@@ -6,15 +6,15 @@
 Make every moment count.
 Live life to the fullest.
 ```
-- 💼 Data Scientist.
-- ⚡ I help businesses generate a better ROI & increased revenue. 
-- 🎓 B.E in Information Technology.
-- 🎓 PG Diploma in Data Science.
+💼 Data Scientist.
+⚡ I help businesses generate a better ROI & increased revenue. 
+🎓 B.E in Information Technology.
+ 🎓 PG Diploma in Data Science.
   
 ## 🔭 What am I currently doing:
-- 🔨 Working as a Data Scientist in Insurance domain.
-- 🔨 Exploring Classical ML.
-- 🔨 Understanding Math & Stats concepts.
+🔨 Working as a Data Scientist in Insurance domain.
+🔨 Exploring Classical ML.
+🔨 Understanding Math & Stats concepts.
 
 ## ⚡ Skills:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
