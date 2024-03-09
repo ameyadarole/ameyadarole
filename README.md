@@ -6,7 +6,7 @@ Make every moment count.
 Live life to the fullest.
 ```
 - 💼 Data Scientist
-- ⚡ I help help businesses generate a better ROI & an increased revenue. 
+- ⚡ I help businesses generate a better ROI & an increased revenue. 
 - 🎓 BE(Information Tech.) & PGD (Data Science)
   
 ## 🔭 What am I currently doing:
