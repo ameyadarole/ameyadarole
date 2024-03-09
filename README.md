@@ -7,8 +7,8 @@ Live life to the fullest.
 ```
 - 💼 Data Scientist
 - ⚡ I help businesses generate a better ROI & increased revenue. 
-- 🎓 B.E (Information Tech.)
-- 🎓 PG Diploma in Data Science
+- 🎓 B.E in Information Technology.
+- 🎓 PG Diploma in Data Science.
   
 ## 🔭 What am I currently doing:
 - Working as a Data Scientist in Insurance domain.
