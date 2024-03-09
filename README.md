@@ -1,20 +1,28 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="300" alt ="Side Image" align="right">
 
 ## 💬 About me:
-
-- A Data Scientist which helps businesses generate a better ROI & an increased revenue. 
-- I use knowledge from the streams of Data Science, Machine Learning & Statistics.
-- I get a tremendous amount of satisfaction in adding value to people's lives.
+```yaml
+Make every moment count.
+Live life to the fullest.
+```
+- 💼 Data Scientist
+- ⚡ I help help businesses generate a better ROI & an increased revenue. 
+- 🎓 BE(Information Tech.) & PGD (Data Science)
   
-## 🔭 What I do:
-
+## 🔭 What am I currently doing:
 - Working as a Data Scientist in Insurance domain.
 - Exploring Classical ML.
 - Understanding Math & Stats concepts.
 
 ## ⚡ Skills:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
+![SAS](https://img.shields.io/badge/-SAS-000?&logo=SAS)
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
 
 ## 📫 How to reach me: 
+[LinkedIn](https://https://www.linkedin.com/in/ameya-darole//)
+  
 
 
 
