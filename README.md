@@ -4,7 +4,9 @@
 
 ## What I am working on?
 -- Working as a Data Scientist in Insurance domain.
+
 -- Currently exploring classical ML.
+
 -- Understanding math & stats concepts.
 
 
