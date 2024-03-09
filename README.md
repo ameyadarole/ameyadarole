@@ -2,9 +2,13 @@
 
 ## About me
 
+## What I am working on?
+-- Working as a Data Scientist in Insurance domain.
+-- Currently exploring classical ML.
+-- Understanding math & stats concepts.
 
 
-- I derive a tremendous amount of satisfaction in adding value to others.
+- I get a tremendous amount of satisfaction in adding value to people's lives.
 <!--
 **ameyadarole/ameyadarole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
