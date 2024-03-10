@@ -23,9 +23,8 @@ Live life to the fullest.
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
 
 ## 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/ameya-darole/)
+[<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Ameya on LinkedIn" title="Follow Ameya on LinkedIn"/>](https://www.linkedin.com/in/ameya-darole) &nbsp; <a href="mailto:ameyadarole@gmail.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
   
-
 
 
 <!--
