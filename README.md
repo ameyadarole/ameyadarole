@@ -20,9 +20,8 @@ Live life to the fullest.
 
 ## ⚡ Skills:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![R](https://img.shields.io/badge/-R-000?&logo=R)
-![SAS](https://img.shields.io/badge/-SAS-000?&logo=SAS)
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 
 ## 📫 How to reach me: 
 [<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Ameya on LinkedIn" title="Follow Ameya on LinkedIn"/>](https://www.linkedin.com/in/ameya-darole) &nbsp; <a href="mailto:ameyadarole@gmail.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
