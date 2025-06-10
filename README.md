@@ -3,6 +3,7 @@
 
 ## 💬 About me:
 ```yaml
+One day at a time.
 Make every moment count.
 Live life to the fullest.
 ```
@@ -10,11 +11,12 @@ Live life to the fullest.
 - ⚡ I help businesses generate a better ROI & increased revenue. 
 - 🎓 B.E in Information Technology.
 - 🎓 PG Diploma in Data Science.
+- 🎓 MSc. in Data Science.
   
 ## 🔭 What am I currently doing:
-- 🔨 Working as a Data Scientist in Insurance domain.
-- 🔨 Exploring Classical ML.
-- 🔨 Understanding Math & Stats concepts.
+- 🔨 Skilled Data Scientist specializing in Machine Learning & Advanced Data Analytics using Python.
+- 🔨 Exploring & Learning Generative AI.
+- 🔨 Curious, Witty & Resilient.
 
 ## ⚡ Skills:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
